@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: naimar
+input:
+  file: naimar_remote_list.csv
